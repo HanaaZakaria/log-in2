@@ -1,6 +1,6 @@
 # log-in2
 
- ## skills 💣
+ * skills
      1. Html
      1. Css
      
