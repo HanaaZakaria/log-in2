@@ -1,10 +1,10 @@
 # log-in2
 
- * skills
-     1. Html
-     1. Css
+ ## skills: ✔️
+* html
+* css
      
-  * visit site💥
+  ## visit site💥
    
   [click here](https://hanaazakaria.github.io/log-in2/)
   
